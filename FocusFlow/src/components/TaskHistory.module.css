@@ -1,0 +1,15 @@
+/* TaskHistory.module.css */
+
+.historyContainer {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.historyHeading {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #343a40;
+}

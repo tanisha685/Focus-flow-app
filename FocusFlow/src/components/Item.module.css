@@ -1,0 +1,13 @@
+.primaryButton {
+  margin-left: 1rem;
+}
+
+.timer {
+  font-weight: bold;
+  color: #7d5fff;
+}
+
+.activeTask {
+  background-color: #f0f0f0;
+  border-left: 5px solid #7d5fff;
+}
